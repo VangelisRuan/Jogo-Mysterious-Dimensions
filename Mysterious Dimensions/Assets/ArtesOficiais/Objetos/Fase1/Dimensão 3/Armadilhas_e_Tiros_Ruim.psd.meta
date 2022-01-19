@@ -1,0 +1,428 @@
+fileFormatVersion: 2
+guid: 8caa62c36a08fe34db9ded6f3c7dead5
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6639207749773182342
+    second: Armadilhas_e_Tiros_Ruim_0
+  - first:
+      213: -8241428223104155238
+    second: Armadilhas_e_Tiros_Ruim_1
+  - first:
+      213: -2101776334516276995
+    second: Armadilhas_e_Tiros_Ruim_2
+  - first:
+      213: 7247361148453302142
+    second: Armadilhas_e_Tiros_Ruim_3
+  - first:
+      213: 6015073312742612087
+    second: Armadilhas_e_Tiros_Ruim_4
+  - first:
+      213: -3712019922208268925
+    second: Armadilhas_e_Tiros_Ruim_5
+  - first:
+      213: 9029678829411082311
+    second: Armadilhas_e_Tiros_Ruim_6
+  - first:
+      213: -3392381484371305247
+    second: Armadilhas_e_Tiros_Ruim_7
+  - first:
+      213: 8710574577510190136
+    second: Armadilhas_e_Tiros_Ruim_8
+  - first:
+      213: -5476906891715811014
+    second: Armadilhas_e_Tiros_Ruim_9
+  - first:
+      213: 1471354664533137263
+    second: Armadilhas_e_Tiros_Ruim_10
+  - first:
+      213: 8993554284720355575
+    second: Armadilhas_e_Tiros_Ruim_11
+  - first:
+      213: 3506763183321899642
+    second: Armadilhas_e_Tiros_Ruim_12
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Armadilhas_e_Tiros_Ruim_0
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 411
+        width: 17
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7abfb44abbccd3a0800000000000000
+      internalID: -6639207749773182342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Armadilhas_e_Tiros_Ruim_1
+      rect:
+        serializedVersion: 2
+        x: 505
+        y: 415
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a918fff22b090ad80800000000000000
+      internalID: -8241428223104155238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Armadilhas_e_Tiros_Ruim_2
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 350
+        width: 17
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df0b5d73f8df4d2e0800000000000000
+      internalID: -2101776334516276995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Armadilhas_e_Tiros_Ruim_3
+      rect:
+        serializedVersion: 2
+        x: 505
+        y: 341
+        width: 15
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7fa68cf09cc39460800000000000000
+      internalID: 7247361148453302142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Armadilhas_e_Tiros_Ruim_4
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 252
+        width: 34
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77c94f70f45d97350800000000000000
+      internalID: 6015073312742612087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Armadilhas_e_Tiros_Ruim_5
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 250
+        width: 45
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38d5a914c814c7cc0800000000000000
+      internalID: -3712019922208268925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Armadilhas_e_Tiros_Ruim_6
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 239
+        width: 42
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 740a9e6dd0ddf4d70800000000000000
+      internalID: 9029678829411082311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Armadilhas_e_Tiros_Ruim_7
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 256
+        width: 60
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ec9f697307dbe0d0800000000000000
+      internalID: -3392381484371305247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Armadilhas_e_Tiros_Ruim_8
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 256
+        width: 60
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83c0b0a7d6d22e870800000000000000
+      internalID: 8710574577510190136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Armadilhas_e_Tiros_Ruim_9
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 161
+        width: 55
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a39e36b233e1ef3b0800000000000000
+      internalID: -5476906891715811014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Armadilhas_e_Tiros_Ruim_10
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 168
+        width: 55
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f679c16954d4b6410800000000000000
+      internalID: 1471354664533137263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Armadilhas_e_Tiros_Ruim_11
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 179
+        width: 19
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f8f2f8d8f58fcc70800000000000000
+      internalID: 8993554284720355575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Armadilhas_e_Tiros_Ruim_12
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 179
+        width: 19
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a72e15d19868aa030800000000000000
+      internalID: 3506763183321899642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

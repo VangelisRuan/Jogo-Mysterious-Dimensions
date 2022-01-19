@@ -1,0 +1,644 @@
+fileFormatVersion: 2
+guid: cf08ce837aa45c746bbccad0ad2492ef
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6704531901351085843
+    second: Armadilhas_e_Tiros_Pixel_0
+  - first:
+      213: 7530698634727366821
+    second: Armadilhas_e_Tiros_Pixel_1
+  - first:
+      213: -5297885060927336514
+    second: Armadilhas_e_Tiros_Pixel_2
+  - first:
+      213: 8868949018498840855
+    second: Armadilhas_e_Tiros_Pixel_3
+  - first:
+      213: -1625351071250061148
+    second: Armadilhas_e_Tiros_Pixel_4
+  - first:
+      213: -4154269238038480472
+    second: Armadilhas_e_Tiros_Pixel_5
+  - first:
+      213: -4362594430302417808
+    second: Armadilhas_e_Tiros_Pixel_6
+  - first:
+      213: -6255571910519649503
+    second: Armadilhas_e_Tiros_Pixel_7
+  - first:
+      213: 1927956333262512867
+    second: Armadilhas_e_Tiros_Pixel_8
+  - first:
+      213: -3829621558536260905
+    second: Armadilhas_e_Tiros_Pixel_9
+  - first:
+      213: 9174173456509552555
+    second: Armadilhas_e_Tiros_Pixel_10
+  - first:
+      213: -4875844314232766889
+    second: Armadilhas_e_Tiros_Pixel_11
+  - first:
+      213: 2303387438869089698
+    second: Armadilhas_e_Tiros_Pixel_12
+  - first:
+      213: 3558255997299781204
+    second: Armadilhas_e_Tiros_Pixel_13
+  - first:
+      213: -4385203829746220806
+    second: Armadilhas_e_Tiros_Pixel_14
+  - first:
+      213: 2416679930843894523
+    second: Armadilhas_e_Tiros_Pixel_15
+  - first:
+      213: 1393311502882255254
+    second: Armadilhas_e_Tiros_Pixel_16
+  - first:
+      213: 2919810389136599956
+    second: Armadilhas_e_Tiros_Pixel_17
+  - first:
+      213: 3604962855679402022
+    second: Armadilhas_e_Tiros_Pixel_18
+  - first:
+      213: -7376268114497322222
+    second: Armadilhas_e_Tiros_Pixel_19
+  - first:
+      213: -2343170622472791976
+    second: Armadilhas_e_Tiros_Pixel_20
+  - first:
+      213: 2383152059307045803
+    second: Armadilhas_e_Tiros_Pixel_21
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Armadilhas_e_Tiros_Pixel_0
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 280
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3174e4dfd384b0d50800000000000000
+      internalID: 6704531901351085843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Armadilhas_e_Tiros_Pixel_1
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 277
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a0a179428a628860800000000000000
+      internalID: 7530698634727366821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Armadilhas_e_Tiros_Pixel_2
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 209
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebfc3924b912a76b0800000000000000
+      internalID: -5297885060927336514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Armadilhas_e_Tiros_Pixel_3
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 202
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7193ca28426d41b70800000000000000
+      internalID: 8868949018498840855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Armadilhas_e_Tiros_Pixel_4
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 201
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a8e6daefc79179e0800000000000000
+      internalID: -1625351071250061148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Armadilhas_e_Tiros_Pixel_5
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 202
+        width: 9
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a9326563221956c0800000000000000
+      internalID: -4154269238038480472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Armadilhas_e_Tiros_Pixel_6
+      rect:
+        serializedVersion: 2
+        x: 475
+        y: 203
+        width: 9
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07c0abaca73f473c0800000000000000
+      internalID: -4362594430302417808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Armadilhas_e_Tiros_Pixel_7
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 176
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12b8096ad7ebf29a0800000000000000
+      internalID: -6255571910519649503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Armadilhas_e_Tiros_Pixel_8
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 180
+        width: 15
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e2a392021a71ca10800000000000000
+      internalID: 1927956333262512867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Armadilhas_e_Tiros_Pixel_9
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 181
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d2b4439b737adac0800000000000000
+      internalID: -3829621558536260905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Armadilhas_e_Tiros_Pixel_10
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 181
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba7c11fd626315f70800000000000000
+      internalID: 9174173456509552555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Armadilhas_e_Tiros_Pixel_11
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 179
+        width: 15
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75e3c06fd65855cb0800000000000000
+      internalID: -4875844314232766889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Armadilhas_e_Tiros_Pixel_12
+      rect:
+        serializedVersion: 2
+        x: 474
+        y: 186
+        width: 15
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ad83e9fba647ff10800000000000000
+      internalID: 2303387438869089698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Armadilhas_e_Tiros_Pixel_13
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 153
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45ee4f22af6716130800000000000000
+      internalID: 3558255997299781204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Armadilhas_e_Tiros_Pixel_14
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 163
+        width: 15
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af04b44c950a423c0800000000000000
+      internalID: -4385203829746220806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Armadilhas_e_Tiros_Pixel_15
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 157
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf214cdc795c98120800000000000000
+      internalID: 2416679930843894523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Armadilhas_e_Tiros_Pixel_16
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 160
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69133c60e69065310800000000000000
+      internalID: 1393311502882255254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Armadilhas_e_Tiros_Pixel_17
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 128
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49b6bff3410458820800000000000000
+      internalID: 2919810389136599956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Armadilhas_e_Tiros_Pixel_18
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 137
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 620af390e96670230800000000000000
+      internalID: 3604962855679402022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Armadilhas_e_Tiros_Pixel_19
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 136
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 213c8532b3b32a990800000000000000
+      internalID: -7376268114497322222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Armadilhas_e_Tiros_Pixel_20
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 128
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 858d067cbb26b7fd0800000000000000
+      internalID: -2343170622472791976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Armadilhas_e_Tiros_Pixel_21
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 128
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba3bcb4eb28a21120800000000000000
+      internalID: 2383152059307045803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

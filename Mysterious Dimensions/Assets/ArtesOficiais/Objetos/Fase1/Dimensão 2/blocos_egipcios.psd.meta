@@ -1,0 +1,1028 @@
+fileFormatVersion: 2
+guid: 6df3f857f5fdbc64c8584345434184ed
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4754491331858238914
+    second: blocos_egipcios_0
+  - first:
+      213: -2675921393992911813
+    second: blocos_egipcios_1
+  - first:
+      213: 3323349915945696788
+    second: blocos_egipcios_2
+  - first:
+      213: 2359360541798096719
+    second: blocos_egipcios_3
+  - first:
+      213: -4706214582329500178
+    second: blocos_egipcios_4
+  - first:
+      213: 5875117343139380186
+    second: blocos_egipcios_5
+  - first:
+      213: -6745149648626410890
+    second: blocos_egipcios_6
+  - first:
+      213: 9152727379248914762
+    second: blocos_egipcios_7
+  - first:
+      213: -2291265404225264394
+    second: blocos_egipcios_8
+  - first:
+      213: -2568805387857828304
+    second: blocos_egipcios_9
+  - first:
+      213: -4816503622607930232
+    second: blocos_egipcios_10
+  - first:
+      213: -1625655911566032992
+    second: blocos_egipcios_11
+  - first:
+      213: -5193537560033358256
+    second: blocos_egipcios_12
+  - first:
+      213: -1655996065520594166
+    second: blocos_egipcios_13
+  - first:
+      213: 8711597505009648460
+    second: blocos_egipcios_14
+  - first:
+      213: -4371152413215489296
+    second: blocos_egipcios_15
+  - first:
+      213: 383209922774680512
+    second: blocos_egipcios_16
+  - first:
+      213: -5662992742506017937
+    second: blocos_egipcios_17
+  - first:
+      213: -8605777503816599638
+    second: blocos_egipcios_18
+  - first:
+      213: -1296991094489607917
+    second: blocos_egipcios_19
+  - first:
+      213: 6949814130784505403
+    second: blocos_egipcios_20
+  - first:
+      213: -3205928598603766612
+    second: blocos_egipcios_21
+  - first:
+      213: 6125796749955093202
+    second: blocos_egipcios_22
+  - first:
+      213: 4047611579593950416
+    second: blocos_egipcios_23
+  - first:
+      213: 7585594599493126105
+    second: blocos_egipcios_24
+  - first:
+      213: 9136011841778788740
+    second: blocos_egipcios_25
+  - first:
+      213: -7100733987395558388
+    second: blocos_egipcios_26
+  - first:
+      213: -5916076753230740355
+    second: blocos_egipcios_27
+  - first:
+      213: -8429889915618578101
+    second: blocos_egipcios_28
+  - first:
+      213: 3718442225923717591
+    second: blocos_egipcios_29
+  - first:
+      213: -7043624403525439590
+    second: blocos_egipcios_30
+  - first:
+      213: 5421152931587636624
+    second: blocos_egipcios_31
+  - first:
+      213: 2624341297601116182
+    second: blocos_egipcios_32
+  - first:
+      213: 7193878132182270103
+    second: blocos_egipcios_33
+  - first:
+      213: -6767752425657408301
+    second: blocos_egipcios_34
+  - first:
+      213: -5200401972353113492
+    second: blocos_egipcios_35
+  - first:
+      213: 5687213466468266325
+    second: blocos_egipcios_36
+  - first:
+      213: -1409558739111380991
+    second: blocos_egipcios_37
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: blocos_egipcios_0
+      rect:
+        serializedVersion: 2
+        x: 916
+        y: 705
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2cd851b0da85bf140800000000000000
+      internalID: 4754491331858238914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blocos_egipcios_1
+      rect:
+        serializedVersion: 2
+        x: 936
+        y: 705
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b343f287ba73ddad0800000000000000
+      internalID: -2675921393992911813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blocos_egipcios_2
+      rect:
+        serializedVersion: 2
+        x: 957
+        y: 705
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41e74440429ee1e20800000000000000
+      internalID: 3323349915945696788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blocos_egipcios_3
+      rect:
+        serializedVersion: 2
+        x: 990
+        y: 716
+        width: 16
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4fd2fe89e12eb020800000000000000
+      internalID: 2359360541798096719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blocos_egipcios_4
+      rect:
+        serializedVersion: 2
+        x: 1012
+        y: 716
+        width: 16
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eed9c7f95ca20beb0800000000000000
+      internalID: -4706214582329500178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blocos_egipcios_5
+      rect:
+        serializedVersion: 2
+        x: 1034
+        y: 712
+        width: 16
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: adb3f8b881c988150800000000000000
+      internalID: 5875117343139380186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blocos_egipcios_6
+      rect:
+        serializedVersion: 2
+        x: 1055
+        y: 716
+        width: 16
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67a95c4c12a6462a0800000000000000
+      internalID: -6745149648626410890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blocos_egipcios_7
+      rect:
+        serializedVersion: 2
+        x: 916
+        y: 684
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a41af16ee05050f70800000000000000
+      internalID: 9152727379248914762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blocos_egipcios_8
+      rect:
+        serializedVersion: 2
+        x: 936
+        y: 684
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f4e207214ac330e0800000000000000
+      internalID: -2291265404225264394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blocos_egipcios_9
+      rect:
+        serializedVersion: 2
+        x: 957
+        y: 684
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 036ef9f1c15c95cd0800000000000000
+      internalID: -2568805387857828304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blocos_egipcios_10
+      rect:
+        serializedVersion: 2
+        x: 990
+        y: 689
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88c72136977582db0800000000000000
+      internalID: -4816503622607930232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blocos_egipcios_11
+      rect:
+        serializedVersion: 2
+        x: 1010
+        y: 689
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0afb710cf828079e0800000000000000
+      internalID: -1625655911566032992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blocos_egipcios_12
+      rect:
+        serializedVersion: 2
+        x: 1030
+        y: 689
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05e009e0b19dce7b0800000000000000
+      internalID: -5193537560033358256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blocos_egipcios_13
+      rect:
+        serializedVersion: 2
+        x: 1048
+        y: 689
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a03533d2a58b409e0800000000000000
+      internalID: -1655996065520594166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blocos_egipcios_14
+      rect:
+        serializedVersion: 2
+        x: 916
+        y: 663
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c43874856cfc5e870800000000000000
+      internalID: 8711597505009648460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blocos_egipcios_15
+      rect:
+        serializedVersion: 2
+        x: 937
+        y: 663
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f2033f1a0c8653c0800000000000000
+      internalID: -4371152413215489296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blocos_egipcios_16
+      rect:
+        serializedVersion: 2
+        x: 957
+        y: 663
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c3c369f46f615500800000000000000
+      internalID: 383209922774680512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blocos_egipcios_17
+      rect:
+        serializedVersion: 2
+        x: 990
+        y: 669
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6b4051ca120961b0800000000000000
+      internalID: -5662992742506017937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blocos_egipcios_18
+      rect:
+        serializedVersion: 2
+        x: 1011
+        y: 669
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa7b6f4a4f2229880800000000000000
+      internalID: -8605777503816599638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blocos_egipcios_19
+      rect:
+        serializedVersion: 2
+        x: 1055
+        y: 669
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3111a18a879200ee0800000000000000
+      internalID: -1296991094489607917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blocos_egipcios_20
+      rect:
+        serializedVersion: 2
+        x: 1074
+        y: 669
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3e86685123b27060800000000000000
+      internalID: 6949814130784505403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blocos_egipcios_21
+      rect:
+        serializedVersion: 2
+        x: 990
+        y: 639
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca4e4f0ece04283d0800000000000000
+      internalID: -3205928598603766612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blocos_egipcios_22
+      rect:
+        serializedVersion: 2
+        x: 1010
+        y: 639
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d2d05f20b3330550800000000000000
+      internalID: 6125796749955093202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blocos_egipcios_23
+      rect:
+        serializedVersion: 2
+        x: 1053
+        y: 651
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d4847659410c2830800000000000000
+      internalID: 4047611579593950416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blocos_egipcios_24
+      rect:
+        serializedVersion: 2
+        x: 1065
+        y: 649
+        width: 6
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d7c8e81912754960800000000000000
+      internalID: 7585594599493126105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blocos_egipcios_25
+      rect:
+        serializedVersion: 2
+        x: 1074
+        y: 649
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 489acfc8d52a9ce70800000000000000
+      internalID: 9136011841778788740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blocos_egipcios_26
+      rect:
+        serializedVersion: 2
+        x: 1077
+        y: 651
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c04aebc4f00257d90800000000000000
+      internalID: -7100733987395558388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blocos_egipcios_27
+      rect:
+        serializedVersion: 2
+        x: 916
+        y: 635
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d744cb3a98fd5eda0800000000000000
+      internalID: -5916076753230740355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blocos_egipcios_28
+      rect:
+        serializedVersion: 2
+        x: 937
+        y: 635
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4138e309c3030b80800000000000000
+      internalID: -8429889915618578101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blocos_egipcios_29
+      rect:
+        serializedVersion: 2
+        x: 1065
+        y: 643
+        width: 6
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d9fef9d08f8a9330800000000000000
+      internalID: 3718442225923717591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blocos_egipcios_30
+      rect:
+        serializedVersion: 2
+        x: 1074
+        y: 643
+        width: 6
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9fe7987ce4004e90800000000000000
+      internalID: -7043624403525439590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blocos_egipcios_31
+      rect:
+        serializedVersion: 2
+        x: 916
+        y: 613
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09d39586eddcb3b40800000000000000
+      internalID: 5421152931587636624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blocos_egipcios_32
+      rect:
+        serializedVersion: 2
+        x: 937
+        y: 613
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 618f6ec71888b6420800000000000000
+      internalID: 2624341297601116182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blocos_egipcios_33
+      rect:
+        serializedVersion: 2
+        x: 1026
+        y: 574
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 790cc22eb0ac5d360800000000000000
+      internalID: 7193878132182270103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blocos_egipcios_34
+      rect:
+        serializedVersion: 2
+        x: 1049
+        y: 574
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d4e6e4a60d1412a0800000000000000
+      internalID: -6767752425657408301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blocos_egipcios_35
+      rect:
+        serializedVersion: 2
+        x: 1071
+        y: 574
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c62e6a485f574d7b0800000000000000
+      internalID: -5200401972353113492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blocos_egipcios_36
+      rect:
+        serializedVersion: 2
+        x: 1026
+        y: 554
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 551b8aef38a0dee40800000000000000
+      internalID: 5687213466468266325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blocos_egipcios_37
+      rect:
+        serializedVersion: 2
+        x: 1049
+        y: 554
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 108f7318bcd307ce0800000000000000
+      internalID: -1409558739111380991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

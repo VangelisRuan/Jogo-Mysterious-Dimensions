@@ -1,0 +1,644 @@
+fileFormatVersion: 2
+guid: e4e3c0ab4d72a6b4d922e2134657fe8c
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5729571697832732893
+    second: Blocos_Egipcios_Ruim (1)_0
+  - first:
+      213: -1394045409989011531
+    second: Blocos_Egipcios_Ruim (1)_1
+  - first:
+      213: 6489338180436264171
+    second: Blocos_Egipcios_Ruim (1)_2
+  - first:
+      213: -6203152547897170238
+    second: Blocos_Egipcios_Ruim (1)_3
+  - first:
+      213: -4292122519095004262
+    second: Blocos_Egipcios_Ruim (1)_4
+  - first:
+      213: 7113427052989165635
+    second: Blocos_Egipcios_Ruim (1)_5
+  - first:
+      213: -7785033128338538777
+    second: Blocos_Egipcios_Ruim (1)_6
+  - first:
+      213: 8425753238753243691
+    second: Blocos_Egipcios_Ruim (1)_7
+  - first:
+      213: 7184569003345933335
+    second: Blocos_Egipcios_Ruim (1)_8
+  - first:
+      213: 9094266485930672426
+    second: Blocos_Egipcios_Ruim (1)_9
+  - first:
+      213: 3062835753289596592
+    second: Blocos_Egipcios_Ruim (1)_10
+  - first:
+      213: 2828658447948128256
+    second: Blocos_Egipcios_Ruim (1)_11
+  - first:
+      213: -1396506119908190872
+    second: Blocos_Egipcios_Ruim (1)_12
+  - first:
+      213: -3858845172667372992
+    second: Blocos_Egipcios_Ruim (1)_13
+  - first:
+      213: 2671446042566060831
+    second: Blocos_Egipcios_Ruim (1)_14
+  - first:
+      213: -3855431078751381561
+    second: Blocos_Egipcios_Ruim (1)_15
+  - first:
+      213: 6060688184028324627
+    second: Blocos_Egipcios_Ruim (1)_16
+  - first:
+      213: -8080087940581627788
+    second: Blocos_Egipcios_Ruim (1)_17
+  - first:
+      213: -2810987906769722889
+    second: Blocos_Egipcios_Ruim (1)_18
+  - first:
+      213: 6373534142799096763
+    second: Blocos_Egipcios_Ruim (1)_19
+  - first:
+      213: 3121964214215631580
+    second: Blocos_Egipcios_Ruim (1)_20
+  - first:
+      213: 7646511767590743648
+    second: Blocos_Egipcios_Ruim (1)_21
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Blocos_Egipcios_Ruim (1)_0
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 492
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd8a3744a17838f40800000000000000
+      internalID: 5729571697832732893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blocos_Egipcios_Ruim (1)_1
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 492
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b757d8e51b57ace0800000000000000
+      internalID: -1394045409989011531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blocos_Egipcios_Ruim (1)_2
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 492
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be4884071b2ce0a50800000000000000
+      internalID: 6489338180436264171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blocos_Egipcios_Ruim (1)_3
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 492
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c6a7079f99f9e9a0800000000000000
+      internalID: -6203152547897170238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blocos_Egipcios_Ruim (1)_4
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 492
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9333ec3f415f64c0800000000000000
+      internalID: -4292122519095004262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blocos_Egipcios_Ruim (1)_5
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 379
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 340b2155738f7b260800000000000000
+      internalID: 7113427052989165635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blocos_Egipcios_Ruim (1)_6
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 379
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7eebbbcdd9106f390800000000000000
+      internalID: -7785033128338538777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blocos_Egipcios_Ruim (1)_7
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 379
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b22fbf8dde94ee470800000000000000
+      internalID: 8425753238753243691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blocos_Egipcios_Ruim (1)_8
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 379
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71477bc6177b4b360800000000000000
+      internalID: 7184569003345933335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blocos_Egipcios_Ruim (1)_9
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 379
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2143aa7f23553e70800000000000000
+      internalID: 9094266485930672426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blocos_Egipcios_Ruim (1)_10
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 266
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0be3138d3e0618a20800000000000000
+      internalID: 3062835753289596592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blocos_Egipcios_Ruim (1)_11
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 266
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0002bdc1fd9614720800000000000000
+      internalID: 2828658447948128256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blocos_Egipcios_Ruim (1)_12
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 266
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 865963c351d9e9ce0800000000000000
+      internalID: -1396506119908190872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blocos_Egipcios_Ruim (1)_13
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 266
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04a2eefa2c0a27ac0800000000000000
+      internalID: -3858845172667372992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blocos_Egipcios_Ruim (1)_14
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 266
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1be5c39502e21520800000000000000
+      internalID: 2671446042566060831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blocos_Egipcios_Ruim (1)_15
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 166
+        width: 100
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c7d50f5cd1ce7ac0800000000000000
+      internalID: -3855431078751381561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blocos_Egipcios_Ruim (1)_16
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 165
+        width: 100
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3136a6fdac3eb1450800000000000000
+      internalID: 6060688184028324627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blocos_Egipcios_Ruim (1)_17
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 165
+        width: 100
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 478e6b304d2cddf80800000000000000
+      internalID: -8080087940581627788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blocos_Egipcios_Ruim (1)_18
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 15
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f1621d546d5df8d0800000000000000
+      internalID: -2810987906769722889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blocos_Egipcios_Ruim (1)_19
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 14
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbb2d51d887537850800000000000000
+      internalID: 6373534142799096763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blocos_Egipcios_Ruim (1)_20
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 15
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd2edc579e1735b20800000000000000
+      internalID: 3121964214215631580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blocos_Egipcios_Ruim (1)_21
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 15
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06e271e80fddd1a60800000000000000
+      internalID: 7646511767590743648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
