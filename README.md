@@ -64,6 +64,7 @@ https://vangelisprojects.itch.io/mysterious-dimensions
   <ul type="disc">
     <li>Unity</li>
     <li>Visual Studio 2019</li>
+    <li>Photoshop</li>
   </ul>
   
 <h2>Melhores resultados</h2>
@@ -79,10 +80,14 @@ Os programadores Vangelis Ruan e Pablo José aprenderam bastante a utilizar dive
 Conclusão tirada por todos durante de toda a produção desse jogo, é que a produção de jogos não é algo tão simples de se realizar, exige muito tempo, auxílios, paciência e planejamento para que tudo ocorra bem e que possa entregar um jogo com uma ótima qualidade, leve e bem polido em relação a bugs.
 
 <h2>Créditos</h2>
+
 O jogo foi idealizado, liderado e programado por Vangelis Ruan [LinkedIn de Vangelis Ruan](https://www.linkedin.com/in/vangelis-ruan-coelho-cirne-nogueira-a64809203/)
 <p></p>
+
 O jogo também foi programado por Pablo José [LinkedIn de Pablo José](https://www.linkedin.com/in/pablo-jose-395174209/)
 <p></p>
+
 As artes e animações do jogo da primeira dimensão do jogo foram feitas pelo Lenilson Tuti [LinkedIn de Lenilson Tuti](https://www.linkedin.com/in/mc-tuti-o-moral-da-linha-do-tiro-a210b8195/)
 <p></p>
+
 As Artes e animações do jogo da segunda e terceira dimensão foram feitas pelo Luiz Carlos [LinkedIn de Luiz Carlos](https://www.linkedin.com/in/luizcarlos2234/)
