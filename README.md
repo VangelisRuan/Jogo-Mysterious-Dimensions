@@ -43,6 +43,10 @@ Jogo na batalha contra o Boss
 <p></p>
 <img src="https://instagram.frec7-1.fna.fbcdn.net/v/t51.2885-15/e35/272437864_159399653087560_1660067033949661947_n.jpg?_nc_ht=instagram.frec7-1.fna.fbcdn.net&_nc_cat=104&_nc_ohc=QmUxg-rS8moAX8F3_va&edm=ABJHkxYAAAAA&ccb=7-4&ig_cache_key=Mjc1OTQ0MDUxOTUyMzIxMzc4Nw%3D%3D.2-ccb7-4&oh=00_AT_kTL4kJgKAnZUO8_oMJv942tQifegs9F-Dn2xVtfad7A&oe=61F7392A&_nc_sid=fa978c" alt="Batalha contra o Boss">
 
+Link do vídeo da gameplay do jogo Mysterious Dimensions:
+<p></p>
+https://www.youtube.com/watch?v=AQKG_Z-dYAs
+
 <h2>Link para download do jogo</h2>
 https://vangelisprojects.itch.io/mysterious-dimensions
 
