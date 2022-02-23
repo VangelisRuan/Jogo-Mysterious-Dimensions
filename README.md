@@ -29,19 +29,23 @@ diferentes forem coletadas.
 
 Jogo na primeira dimensão (dimensão principal)
 <p></p>
-<img src="https://scontent-for1-1.cdninstagram.com/v/t51.2885-15/e35/272621320_617640846015023_7732971781305699933_n.jpg?_nc_ht=scontent-for1-1.cdninstagram.com&_nc_cat=111&_nc_ohc=jviV3FwNgV4AX_NECVs&edm=ABJHkxYAAAAA&ccb=7-4&ig_cache_key=Mjc1OTM0MTQyOTc3MDkyOTk4OA%3D%3D.2-ccb7-4&oh=00_AT-NV6yox4Z3JDPt4j1_FnkdeP7-uKwy_2MocBIdX2iT7Q&oe=61F885E0&_nc_sid=fa978c" alt="Jogo na primeira dimensão">
+
+  <a href="https://imgur.com/OtESkKR"><img src="https://i.imgur.com/OtESkKR.jpg" title="Jogo na primeira dimensão" /></a>
 
 Jogo na segunda dimensão (dimensão em pixel)
 <p></p>
-<img src="https://instagram.frec7-1.fna.fbcdn.net/v/t51.2885-15/e35/272530211_981737259367320_4638768196259521365_n.jpg?_nc_ht=instagram.frec7-1.fna.fbcdn.net&_nc_cat=100&_nc_ohc=mMlDMsL-IlQAX_iI8E3&edm=ABJHkxYAAAAA&ccb=7-4&ig_cache_key=Mjc1OTM0MTQ1MDU2NjA4MjE5OA%3D%3D.2-ccb7-4&oh=00_AT9N8GWJ3L_ccrChc5xtOwUAz7XuV1bzxmNe955ngFg-IA&oe=61F749E9&_nc_sid=fa978c" alt="Jogo na segunda dimensão">
+
+  <a href="https://imgur.com/74HsbL2"><img src="https://i.imgur.com/74HsbL2.jpg" title="Jogo na segunda dimensão" /></a>
 
 Jogo na terceira dimensão (dimensão em palito)
 <p></p>
-<img src="https://instagram.frec7-1.fna.fbcdn.net/v/t51.2885-15/e35/272682489_1309912862862098_6479259169792891402_n.jpg?_nc_ht=instagram.frec7-1.fna.fbcdn.net&_nc_cat=102&_nc_ohc=WyD-6EVu8SIAX9Mbf2j&edm=ABJHkxYAAAAA&ccb=7-4&ig_cache_key=Mjc1OTM0MTQ5NjI3NTY4ODM5Nw%3D%3D.2-ccb7-4&oh=00_AT9-r3ChvmEQkor8Stps8Hpgl519zP6uhyU4XkzQJBKVpA&oe=61F7238B&_nc_sid=fa978c" alt="Jogo na terceira dimensão">
+
+  <a href="https://imgur.com/EOTs1FT"><img src="https://i.imgur.com/EOTs1FT.jpg" title="Jogo na terceira dimensão" /></a>
 
 Jogo na batalha contra o Boss
 <p></p>
-<img src="https://instagram.frec7-1.fna.fbcdn.net/v/t51.2885-15/e35/272437864_159399653087560_1660067033949661947_n.jpg?_nc_ht=instagram.frec7-1.fna.fbcdn.net&_nc_cat=104&_nc_ohc=QmUxg-rS8moAX8F3_va&edm=ABJHkxYAAAAA&ccb=7-4&ig_cache_key=Mjc1OTQ0MDUxOTUyMzIxMzc4Nw%3D%3D.2-ccb7-4&oh=00_AT_kTL4kJgKAnZUO8_oMJv942tQifegs9F-Dn2xVtfad7A&oe=61F7392A&_nc_sid=fa978c" alt="Batalha contra o Boss">
+
+  <a href="https://imgur.com/peeIT11"><img src="https://i.imgur.com/peeIT11.jpg" title="Batalha contra o Boss" /></a>
 
 Link do vídeo da gameplay do jogo Mysterious Dimensions:
 <p></p>
@@ -53,15 +57,15 @@ https://vangelisprojects.itch.io/mysterious-dimensions
 <h2>Como baixar o jogo</h2>
   <ol>
     <li>Clique no link para download pelo celular Android para abrir o site disponível para download</li>
-    <img src="https://instagram.frec7-1.fna.fbcdn.net/v/t51.2885-15/e35/p480x480/272640030_752993175660566_2180356699013422592_n.jpg?_nc_ht=instagram.frec7-1.fna.fbcdn.net&_nc_cat=102&_nc_ohc=nKqgzYiShl4AX8Wrr_r&edm=ABJHkxYAAAAA&ccb=7-4&ig_cache_key=Mjc1OTMzNTI5MTAyMTA0MzI5NQ%3D%3D.2-ccb7-4&oh=00_AT8yOMmJvj-6xVgx_U3p8-KHkMa3s2UUti1DwqvBpcCNgA&oe=61F861F3&_nc_sid=fa978c" alt="Site do jogo disponível para download aberto">
+      <a href="https://imgur.com/aCCWFhm"><img src="https://i.imgur.com/aCCWFhm.jpg" title="Site do jogo disponível para download aberto" /></a>
     <li>Clique no botão de download do APK do jogo</li>
-    <img src="https://instagram.frec7-1.fna.fbcdn.net/v/t51.2885-15/e15/s240x240/272707642_880526345951471_5481160279403407376_n.jpg?_nc_ht=instagram.frec7-1.fna.fbcdn.net&_nc_cat=111&_nc_ohc=SUT1Y13dQAkAX-NGmbR&edm=ABJHkxYAAAAA&ccb=7-4&ig_cache_key=Mjc1OTM4MjA4NTEwNDIzMzUxOA%3D%3D.2-ccb7-4&oh=00_AT9H2Al4Dn2JTApWeFTzZUZFPBjAspMu9M0NgUr8pvGTCw&oe=61F74D2E&_nc_sid=fa978c" alt="Imagem mostrando onde fica o download do apk do jogo">
+      <a href="https://imgur.com/CSpHkMy"><img src="https://i.imgur.com/CSpHkMy.jpg" title="Imagem mostrando onde fica o download do apk do jogo" /></a>
     <li>Assim que instalar o APK do jogo clique para instalar o aplicativo</li>
-    <img src="https://instagram.frec7-1.fna.fbcdn.net/v/t51.2885-15/e15/s240x240/272703441_511968996858532_7929684155616282957_n.jpg?_nc_ht=instagram.frec7-1.fna.fbcdn.net&_nc_cat=104&_nc_ohc=35Ae47gog4EAX8uBDQb&edm=ABJHkxYAAAAA&ccb=7-4&ig_cache_key=Mjc1OTM4MjE4Mzg4ODMyNTcyOQ%3D%3D.2-ccb7-4&oh=00_AT_JpbI32fJ_7Vk2yNtuxYaZTO18ZLM_CFFT2qWU_LDC4Q&oe=61F73677&_nc_sid=fa978c" alt="Imagem mostrando onde fica o botão de instalar o jogo">
+      <a href="https://imgur.com/mTSsAjA"><img src="https://i.imgur.com/mTSsAjA.jpg" title="Imagem mostrando onde fica o botão de instalar o jogo" /></a>
     <li>Caso não consiga instalar, ative a opção de permitir fontes desconhecidas no celular</li>
-    <img src="https://instagram.frec7-1.fna.fbcdn.net/v/t51.2885-15/e15/p240x240/272750405_979520002993047_3435956182697579352_n.jpg?_nc_ht=instagram.frec7-1.fna.fbcdn.net&_nc_cat=103&_nc_ohc=AjykGpOrVE4AX8wZYEO&edm=ABJHkxYAAAAA&ccb=7-4&ig_cache_key=Mjc1OTM4MjM3OTY1MzMwMDQwNg%3D%3D.2-ccb7-4&oh=00_AT9Snt5QuDhvdonlLvEEQMB6aNXkjaAnL0aTrIhQdpRIow&oe=61F6A749&_nc_sid=fa978c" alt="Imagem mostrando onde fica o botão de permissão para instalar o jogo">
+      <a href="https://imgur.com/SQ8pVPp"><img src="https://i.imgur.com/SQ8pVPp.jpg" title="Imagem mostrando onde fica o botão de permissão para instalar o jogo" /></a>
     <li>Abra o aplicativo e jogue o jogo!</li>
-    <img src="https://instagram.frec7-1.fna.fbcdn.net/v/t51.2885-15/e35/272633474_3157262287874885_6684250570448903578_n.jpg?_nc_ht=instagram.frec7-1.fna.fbcdn.net&_nc_cat=105&_nc_ohc=x-c-olFQkwUAX-6tudS&edm=ABJHkxYAAAAA&ccb=7-4&ig_cache_key=Mjc1OTM0MTQxMjIyMTcyNjQzMw%3D%3D.2-ccb7-4&oh=00_AT89LEAivMduq-8ESuf-MI79GaqNrZBWrQYeqVxxi3sifA&oe=61F6C87D&_nc_sid=fa978c" alt="Imagem do jogo aberto">
+      <a href="https://imgur.com/mAMo1jb"><img src="https://i.imgur.com/mAMo1jb.jpg" title="Imagem do jogo aberto" /></a>
   </ol>
 
 <h2>Ferramentas utilizadas</h2>
